@@ -8,7 +8,7 @@ This repo is intended to include sketeches to change the senseair sunrise co2 se
 
 ## Device information
 
-Find information about the sensor on [the manufacturer website](https://senseair.com/products/power-counts/sunrise/) or in the [documentation directory.](../debotaniker/sunrise_settings/documentation)
+Find information about the sensor on [the manufacturer website](https://senseair.com/products/power-counts/sunrise/) or in the [documentation directory.](/documentation)
 
 ## Help
 
