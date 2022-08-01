@@ -25,10 +25,8 @@ void loop() {
   Wire.beginTransmission(SunriseAddress);
 
   error = Wire.endTransmission(true);
-
-
-
-  //Read CO2
+  
+  
 
   Wire.beginTransmission(SunriseAddress);
 
